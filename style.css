@@ -1,0 +1,67 @@
+body {
+    background-color:slategray}
+
+h1 {
+    color:white;
+    font-family: cursive;
+    border: 2px solid beige;
+    background-color:cadetblue;
+    border-radius: 15px;
+
+
+}
+h2 {
+    color:white;
+    
+}
+
+h3 {
+    color:white;
+}
+
+p{
+    color:white;
+}
+
+ul {
+    background-color: slategray;
+    list-style-type:circle
+}
+
+
+ul li {
+    color:white;
+} 
+  
+ol {
+    background-color: slategray;
+    list-style-type:georgian
+}
+
+
+ol li {
+    color:white;
+}
+
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+
+}
+
+iframe {
+    width: 250px;
+    height: 250px;
+}
+
+a {
+    text-decoration:none;
+    color: white;
+}
+
+
+a:hover {
+    font-size: larger;
+}
